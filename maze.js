@@ -1,5 +1,8 @@
-//Author :  Eric Anderson
-// ID #: 620085617
+/*
+Author :  Eric Anderson
+ID #: 620085617
+Lab 4
+*/
 
 //Variables
 
